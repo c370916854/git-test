@@ -13,5 +13,6 @@ public class gitTest {
         System.out.println("hellworld4");
         System.out.println("hellworld5");
         System.out.println("hellworld6");
+        System.out.println("push");
     }
 }
