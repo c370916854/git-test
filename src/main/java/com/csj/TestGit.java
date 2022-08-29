@@ -17,6 +17,9 @@ public class TestGit {
         return username;
     }
 
+    public void show(){
+
+    }
     public void setUsername(String username) {
         this.username = username;
     }
