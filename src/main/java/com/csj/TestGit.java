@@ -7,4 +7,5 @@ public class TestGit {
     private String username;
     private String password;
     private Integer age;
+    private String phone;
 }
