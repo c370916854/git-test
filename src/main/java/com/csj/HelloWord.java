@@ -13,6 +13,9 @@ public class HelloWord {
         System.out.println("4343434343434");
         System.out.println("2312321312");
         System.out.println("bieshuchule");
-        wjadjaskdas
+    }
+
+    public HelloWord() {
+        System.out.println("sdjskdsjkd");
     }
 }
