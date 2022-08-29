@@ -5,4 +5,5 @@ package com.csj;
  */
 public class TestGit {
     private String username;
+    private Integer age;
 }
