@@ -8,4 +8,5 @@ public class TestGit {
     private String password;
     private Integer age;
     private String phone;
+    private String name;
 }
