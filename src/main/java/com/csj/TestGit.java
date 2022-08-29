@@ -10,4 +10,5 @@ public class TestGit {
     private String phone;
     private String name;
     private String gender;
+    private String id;
 }
