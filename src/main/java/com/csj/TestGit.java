@@ -12,4 +12,5 @@ public class TestGit {
     private String gender;
     private String id;
     private String strr;
+    private String str;
 }
