@@ -9,8 +9,4 @@ public class TestGit {
     private Integer age;
     private String phone;
     private String name;
-    private String gender;
-    private String id;
-    private String strr;
-    private String str;
 }
