@@ -9,4 +9,5 @@ public class TestGit {
     private Integer age;
     private String phone;
     private String aaaa;
+    private String bbb;
 }
